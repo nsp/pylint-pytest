@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+## [1.1.3] - 2022-11-02
+### Fixed
+- Suppress more unused-argument false positives
+
 ## [1.1.2] - 2021-04-19
 ### Fixed
 - Fix #18 plugin crash when test case is marked with a non-pytest.mark decorator
